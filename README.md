@@ -1,16 +1,16 @@
-## Hi there 👋
+###  Hey there! 👋 
 
-<!--
-**truthful1337/truthful1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is truthful.
+I love coding while listening to music
+___
 
-Here are some ideas to get you started:
+#### What I'm currently working on:
+* I am currently not working on anything at the moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How I do it
+I put my music on and get in the zone and start to let my imagination come to life.
+___
+### Contact me
+Email: discord `truthful1337`
+
+My only discord contact is `@truthful1337` with the user ID `1241565740449005628`, if it changes it will be updated here. Don't fall for someone impersonating me:)
